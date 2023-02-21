@@ -1,0 +1,8 @@
+io/github/yaverjavid/twa/DelegationService.java
+ io.github.yaverjavid.twa.DelegationService
+io/github/yaverjavid/twa/BuildConfig.java
+ io.github.yaverjavid.twa.BuildConfig
+io/github/yaverjavid/twa/LauncherActivity.java
+ io.github.yaverjavid.twa.LauncherActivity
+io/github/yaverjavid/twa/Application.java
+ io.github.yaverjavid.twa.Application

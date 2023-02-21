@@ -1,0 +1,42 @@
+{
+  "packageId": "io.github.yaverjavid.twa",
+  "host": "yaverjavid.github.io",
+  "name": "Pixmacr By Yaver & Zanoor With ❤️",
+  "launcherName": "Pixmacr",
+  "display": "fullscreen",
+  "themeColor": "#1A1B1D",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#1A1B1D",
+  "enableNotifications": true,
+  "startUrl": "/bitmacr/",
+  "iconUrl": "https://yaverjavid.github.io/bitmacr/favicon.png",
+  "maskableIconUrl": "https://yaverjavid.github.io/bitmacr/favicon.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/home/yaverjavid/bitmacr6/android.keystore",
+    "alias": "yj"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://yaverjavid.github.io/bitmacr/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://yaverjavid.github.io/bitmacr/",
+  "minSdkVersion": 19,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1"
+}
